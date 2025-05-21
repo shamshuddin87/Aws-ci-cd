@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 def home():
 
-    return "Hello from AWS CI/CD!"
+    return "Hello from AWS CI/CD!" -updated!"
 
 if __name__ == '__main__':
 
